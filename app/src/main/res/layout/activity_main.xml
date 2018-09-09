@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <View
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#991188"/>
+    <View
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#ad074a"
+        android:layout_centerHorizontal="true"/>
+    <View
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#ff6700"
+        android:layout_alignParentRight="true"/>
+    <View
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#ff288d"
+        android:layout_centerVertical="true"/>
+    <View
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#68ff8b"
+        android:layout_centerInParent="true"/>
+    <View
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#ffe200"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"/>
+    <View
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#b17e95"
+        android:layout_alignParentBottom="true"/>
+    <View
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#8d9e94"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+    <View
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="#86ecec"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"/>
+
+
+</RelativeLayout>
